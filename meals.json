@@ -1,0 +1,244 @@
+[
+	{
+		"Meal": "Börek",
+		"Time":0,
+		"Hungry":4
+	},
+	{
+		"Meal": "Çiğ Köfte ",
+		"Time":1,
+		"Hungry":3
+	},
+	{
+		"Meal": "Çorba",
+		"Time":1,
+		"Hungry":2
+	},
+	{
+		"Meal": "İskender",
+		"Time":1,
+		"Hungry":5
+	},
+	{
+		"Meal": "Karışık Izgara",
+		"Time":1,
+		"Hungry":5
+	},
+	{
+		"Meal": "Kumpir",
+		"Time":1,
+		"Hungry":4
+	},
+	{
+		"Meal": "Lahmacun",
+		"Time":1,
+		"Hungry":3
+	},
+	{
+		"Meal": "Hamburger",
+		"Time":1,
+		"Hungry":5
+	},
+	{
+		"Meal": "Makarna ",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Mantý ",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Pide ",
+		"Time": 1,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Salata",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Sandviç",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Sosisli",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Sushi",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Tantuni",
+		"Time": 1,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Ayvalýk Tostu ",
+		"Time": 0,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Islak Hamburger",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Etli Yaprak Sarma",
+		"Time": 1,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Etli Yemek Menü ",
+		"Time": 1,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Tavuklu Yemek Menü ",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Sebzeli Yemek Menü",
+		"Time": 1,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Etli Sebzeli Yemek Menü ",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Pancake",
+		"Time": 0,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Simit Arasý ",
+		"Time": 0,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Granola",
+		"Time": 0,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Quesadilla",
+		"Time": 1,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Þnitzel",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Omlet",
+		"Time": 0,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Wrap",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Balýk",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Kokoreç",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Krep",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Krep",
+		"Time": 0,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Kahvaltý Tabaðý",
+		"Time": 0,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Gözleme",
+		"Time": 0,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Zeytinyaðlý Yemek",
+		"Time": 1,
+		"Hungry": 1
+	},
+	{
+		"Meal": "Mücver ",
+		"Time": 1,
+		"Hungry": 1
+	},
+	{
+		"Meal": "Lazanya",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Sote",
+		"Time": 1,
+		"Hungry": 3
+	},
+	{
+		"Meal": "Sarma/Dolma",
+		"Time": 1,
+		"Hungry": 2
+	},
+	{
+		"Meal": "Graten",
+		"Time": 1,
+		"Hungry": 1
+	},
+	{
+		"Meal": "Fajita",
+		"Time": 1,
+		"Hungry": 5
+	},
+	{
+		"Meal": "Taco",
+		"Time": 1,
+		"Hungry": 4
+	},
+	{
+		"Meal": "Falafel",
+		"Time": 1,
+		"Hungry": 1
+	},
+	{
+		"Meal": "Tatlý Arýyorsun",
+		"Time": 1,
+		"Hungry": 0
+	},
+	{
+		"Meal": "Tatlý Arýyorsun",
+		"Time": 0,
+		"Hungry": 0
+	},
+	{
+		"Meal": "Tost",
+		"Time": 0,
+		"Hungry": 1
+	}
+
+
+]

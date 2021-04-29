@@ -3,6 +3,7 @@ import random
 from keep_alive import keep_alive
 import data_processing
 
+token = ""; 
 
 meals = (data_processing.meals)
 filmdizi =(data_processing.filmdizi)
@@ -90,7 +91,7 @@ async def on_message(message):
 
 
 keep_alive()        
-client.run("ODI1OTc4MzY2NzQ5NTczMTcw.YGFyTA.zuaC_4SB2MGgvL8sc1N58SXLI2o")
+client.run(token)
 
 
       
